@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="ESLint Fix" description="Automatically fix issue with locally installed ESLint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="./node_modules/.bin/eslint" />
+      <option name="PARAMETERS" value="--fix $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
