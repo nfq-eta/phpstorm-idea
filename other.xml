@@ -1,0 +1,15 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.9.1/bin/node">
+      <version-cache version="8.9.1" last-modified="1510088175000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v8.9.1/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.6.0/bin/node">
+      <version-cache version="8.6.0" last-modified="1506457446000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v8.6.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.12.1/bin/node">
+      <version-cache version="6.12.1" last-modified="1512448017000" />
+    </local-interpreter>
+  </component>
+</application>
